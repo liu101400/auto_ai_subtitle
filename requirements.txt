@@ -3,3 +3,4 @@ pyyaml
 openai-whisper
 ffmpeg-python
 torch
+pip install -r requirements.txt
